@@ -1,0 +1,15 @@
+{
+  "name": "dashboard-iot",
+  "version": "1.0.0",
+  "description": "Dashboard for IoT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Néstor Escoto",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-chart.js": "^1.0.3"
+  }
+}
